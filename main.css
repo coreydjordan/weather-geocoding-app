@@ -37,7 +37,7 @@ body{
 .inputs input[type="submit"] {
     height: 3.2rem;
     width: 6.5rem;
-    background: #0a67ca;
+    background: #0dca0a;
     font-weight: bold;
     color: white;
     font-size: 1.2rem;
@@ -62,7 +62,7 @@ body{
 .wrapper h2{
     padding: 5px 0;
     text-align: center;
-    background: #0548b5;
+    background: #5a5c61;
     color: white;
     font-family: sans-serif;
   }
