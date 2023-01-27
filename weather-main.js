@@ -1,7 +1,6 @@
 //figure out how to check if city uses mph or kph and if they use C or F. Figure out how to ask for location and get weather based on that.
 
-//Step 1: Get geolocation API to work
-//Step 2:
+
 var inputval = document.querySelector('#cityinput');
 var btn = document.querySelector('#add');
 var city = document.querySelector('#cityoutput');
